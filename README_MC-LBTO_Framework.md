@@ -138,9 +138,9 @@ For questions, integration advice, or extending the gRPC channels, contact the M
 
 Please refer to the following single README files for the modules in the main repository:
 
-1- README - PDSM Module Deployment Manual
-2- README - PALB Module Deployment Manual
-3- README - STAM Module Deployment Manual
+1. README - PDSM Module Deployment Manual
+2. README - PALB Module Deployment Manual
+3. README - STAM Module Deployment Manual
 
 ---
 
