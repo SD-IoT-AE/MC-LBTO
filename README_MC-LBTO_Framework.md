@@ -1,5 +1,5 @@
 
-# 🧠 MC-LBTO: A State-Aware Multi-Controller Framework for Adaptive Traffic Optimization and Intelligent Load Balancing in SD-IoT
+# MC-LBTO: Secure and Resilient State-Aware Multi-Controller Framework with Adaptive Load Balancing for SD-IoT Performance Optimization
 
 This repository hosts the full deployment guide and implementation breakdown for the **MC-LBTO** framework, which includes three interdependent modules:
 
