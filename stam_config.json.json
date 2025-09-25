@@ -1,0 +1,19 @@
+{
+  "controllers": [
+    "ctrlA",
+    "ctrlB"
+  ],
+  "shared_keys": {
+    "ctrlA": "alpha_secret",
+    "ctrlB": "beta_secret"
+  },
+  "report_interval": 6,
+
+  "thresholds": {
+    "cpu_usage": 0.85,
+    "max_delay": 0.3,
+    "max_traffic_volume": 1.0
+  },
+
+  "verbose_logging": true
+}
